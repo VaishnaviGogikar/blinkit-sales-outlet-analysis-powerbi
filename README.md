@@ -37,7 +37,7 @@ To transform sales and outlet data into an interactive Power BI dashboard and de
 
 ## 📊 Dashboard
 
-![Blinkit Sales & Outlet Analysis Dashboard](screenshots/blinkit-dashboard.png)
+[Blinkit Sales & Outlet Analysis Dashboard](BlinkitDashboard%20github.png)
 
 ## 🎓 Learning Project
 
